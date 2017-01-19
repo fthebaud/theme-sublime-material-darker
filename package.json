@@ -1,0 +1,22 @@
+{
+    "name": "theme-sublime-material-darker",
+    "displayName": "Sublime Material Darker",
+    "description": "Conversion for vscode of the material darker theme for sublime, by quinusocio",
+    "version": "4.0.4",
+    "publisher": "nobody",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sublime-Material-Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material-Theme-Darker.tmTheme"
+            }
+        ]
+    }
+}
